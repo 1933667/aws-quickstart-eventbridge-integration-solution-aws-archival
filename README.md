@@ -5,6 +5,5 @@ This Quick Start demonstrates an integration with Amazon Kinesis Data Firehose a
 
 ![Quick Start architecture for EventBridge Integration Solution for Archival](https://github.com/aws-quickstart/eventbridge-integration-solution-aws-archival/raw/master/images/arch-eventbridge-archival.png)
 
-For details and launch information, see the [data sheet](https://aws.amazon.com/quickstart/eventbridge/aws-archival/).
 
 To post feedback, submit feature ideas, or report bugs, use the **Issues** section of [this GitHub repo](https://github.com/aws-quickstart/eventbridge-integration-solution-aws-archival).
